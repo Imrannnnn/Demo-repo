@@ -51,3 +51,5 @@ class Product{
 const product1 = new Product("fish", 30)
 
 product1.displayproduct()
+
+console.log('imran')
